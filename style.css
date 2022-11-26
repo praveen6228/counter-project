@@ -1,0 +1,37 @@
+* {
+  margin-top: 30px;
+  margin-left: 30px;
+  background-color: black;
+}
+#heading {
+  color: white;
+}
+#counterText {
+  color: white;
+}
+#decrement {
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 150px;
+}
+#increment {
+  background-color: white;
+  color: black;
+  height: 40px;
+  width: 150px;
+}
+#reset {
+  color: white;
+  border-color: white;
+  height: 35px;
+  width: 145px;
+}
+p {
+  color: white;
+  font-size: 25px;
+  padding-bottom: 25px;
+  border-bottom-style: solid;
+  border-bottom-width: 1.5px;
+  width: fit-content;
+}
